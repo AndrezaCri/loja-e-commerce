@@ -1,0 +1,10 @@
+
+#carouselExampleIndicators {
+    box-sizing: content-box;
+}
+
+.carousel-caption h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: darkgray;
+}
